@@ -1,19 +1,28 @@
-#include <stdio.h>
+#include <iostream>
+using namespace std;
 
-char name[] = "test";
-
-int sum(int x, int y)
+class CPoint
 {
-	static int result;
-	result = x + y;
-	return result;
-}
+private:
+	int x, y;
 
-int main(void)
+public:
+	CPoint() : x(0), y(0) {}
+	CPoint(int a, int b) : x(a), y(b) { }
+	
+	void Move(int a) { x += a; }					// Move 함수
+	void Move(int a, int b) { x += a; y += b; }		// Move 함수 오버로딩
+
+	void Print() { cout << "(" << x << ", " << y << ")" << endl; }
+};
+
+int main()
 {
-	int a;
-	int* p = (int*)malloc(sizeof(int));
-	a = sum(3, 4);
-	*p = a;
+	CPoint P1(1, 2);
+	P1.Move(3);
+	P1.Move(4, 5);
 
+	P1.Print();
+
+	return 0;
 }
