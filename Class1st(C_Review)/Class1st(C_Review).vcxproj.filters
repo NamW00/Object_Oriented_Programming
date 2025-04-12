@@ -15,16 +15,13 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="소스.cpp">
+    <ClCompile Include="01_표준입출력.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="표준입출력.cpp">
+    <ClCompile Include="02_배열.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="배열.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="포인터.cpp">
+    <ClCompile Include="03_포인터.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

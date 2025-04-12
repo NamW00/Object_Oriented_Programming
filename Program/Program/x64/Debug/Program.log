@@ -1,2 +1,10 @@
 ﻿  Program.cpp
+C:\Users\guddn\Desktop\Object_Oriented_Programming\Program\Program.cpp(8,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
+C:\Users\guddn\Desktop\Object_Oriented_Programming\Program\Program.cpp(8,9): warning C4313: 'printf': 서식 문자열의 '%d'이(가) int *' 형식의 인수 1과(와) 충돌합니다.
+C:\Users\guddn\Desktop\Object_Oriented_Programming\Program\Program.cpp(10,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int **'입니다.
+C:\Users\guddn\Desktop\Object_Oriented_Programming\Program\Program.cpp(10,9): warning C4313: 'printf': 서식 문자열의 '%d'이(가) int **' 형식의 인수 1과(와) 충돌합니다.
+C:\Users\guddn\Desktop\Object_Oriented_Programming\Program\Program.cpp(11,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
+C:\Users\guddn\Desktop\Object_Oriented_Programming\Program\Program.cpp(11,9): warning C4313: 'printf': 서식 문자열의 '%d'이(가) int *' 형식의 인수 1과(와) 충돌합니다.
+C:\Users\guddn\Desktop\Object_Oriented_Programming\Program\Program.cpp(17,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
+C:\Users\guddn\Desktop\Object_Oriented_Programming\Program\Program.cpp(17,9): warning C4313: 'printf': 서식 문자열의 '%d'이(가) int *' 형식의 인수 1과(와) 충돌합니다.
   Program.vcxproj -> C:\Users\guddn\Desktop\Object_Oriented_Programming\Program\x64\Debug\Program.exe
