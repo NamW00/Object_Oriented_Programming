@@ -13,67 +13,85 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="소스 파일\1장">
+      <UniqueIdentifier>{886007f2-4b03-4335-b329-294ced9194a3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\2장">
+      <UniqueIdentifier>{ddd71292-87c6-4138-bd67-919753c48ade}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\3장">
+      <UniqueIdentifier>{1e7fdfbb-b8a6-49c5-956a-9ce2acf46f4b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\4장">
+      <UniqueIdentifier>{b2395afa-492c-4f91-8dc8-84e7dedb5121}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\5장">
+      <UniqueIdentifier>{f742f4e2-182e-4f07-8cf1-105f4260db13}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\6장">
+      <UniqueIdentifier>{b7028686-dd04-4215-81dd-57f397c2a251}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="ex_1-9.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\1장</Filter>
     </ClCompile>
     <ClCompile Include="ex_1-11.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\1장</Filter>
     </ClCompile>
     <ClCompile Include="ex_1-12.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\1장</Filter>
     </ClCompile>
     <ClCompile Include="ex_2-4.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\2장</Filter>
     </ClCompile>
     <ClCompile Include="ex_2-5.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\2장</Filter>
     </ClCompile>
     <ClCompile Include="ex_2-6.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\2장</Filter>
     </ClCompile>
     <ClCompile Include="ex_2-9.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\2장</Filter>
     </ClCompile>
     <ClCompile Include="ex_3-1.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\3장</Filter>
     </ClCompile>
     <ClCompile Include="ex_3-2.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\3장</Filter>
     </ClCompile>
     <ClCompile Include="ex_3-5.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\3장</Filter>
     </ClCompile>
     <ClCompile Include="ex_4-4.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\4장</Filter>
     </ClCompile>
     <ClCompile Include="ex_4-6.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\4장</Filter>
     </ClCompile>
     <ClCompile Include="ex_4-7.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\4장</Filter>
     </ClCompile>
     <ClCompile Include="ex_5-3.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\5장</Filter>
     </ClCompile>
     <ClCompile Include="ex_5-5.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\5장</Filter>
     </ClCompile>
     <ClCompile Include="ex_5-8.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\5장</Filter>
     </ClCompile>
     <ClCompile Include="ex_6-3.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\6장</Filter>
     </ClCompile>
     <ClCompile Include="ex_6-5.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\6장</Filter>
     </ClCompile>
     <ClCompile Include="ex_6-6.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\6장</Filter>
     </ClCompile>
     <ClCompile Include="ex_6-7.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\6장</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

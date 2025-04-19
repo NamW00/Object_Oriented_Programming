@@ -13,49 +13,55 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="소스 파일\연습문제">
+      <UniqueIdentifier>{ced3f92c-bb8e-4b73-915c-e7f741a065f5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\예제">
+      <UniqueIdentifier>{6d4ee62b-3458-421e-9092-dc1dad9e3c50}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="예제5-1.cpp">
-      <Filter>소스 파일</Filter>
+    <ClCompile Include="5-1%28클래스와 배열%29.cpp">
+      <Filter>소스 파일\예제</Filter>
     </ClCompile>
-    <ClCompile Include="예제5-2.cpp">
-      <Filter>소스 파일</Filter>
+    <ClCompile Include="5-2%28클래스와 배열%29.cpp">
+      <Filter>소스 파일\예제</Filter>
     </ClCompile>
-    <ClCompile Include="예제5-3.cpp">
-      <Filter>소스 파일</Filter>
+    <ClCompile Include="5-3%28클래스와 배열%29.cpp">
+      <Filter>소스 파일\예제</Filter>
     </ClCompile>
-    <ClCompile Include="예제5-4.cpp">
-      <Filter>소스 파일</Filter>
+    <ClCompile Include="5-4%28클래스와 배열%29.cpp">
+      <Filter>소스 파일\예제</Filter>
     </ClCompile>
-    <ClCompile Include="예제5-5.cpp">
-      <Filter>소스 파일</Filter>
+    <ClCompile Include="5-5%28객체 포인터%29.cpp">
+      <Filter>소스 파일\예제</Filter>
     </ClCompile>
-    <ClCompile Include="예제5-6.cpp">
-      <Filter>소스 파일</Filter>
+    <ClCompile Include="5-6%28객체 포인터%29.cpp">
+      <Filter>소스 파일\예제</Filter>
     </ClCompile>
-    <ClCompile Include="ex_5-1.cpp">
-      <Filter>소스 파일</Filter>
+    <ClCompile Include="5-7%28객체 포인터%29.cpp">
+      <Filter>소스 파일\예제</Filter>
     </ClCompile>
-    <ClCompile Include="예제5-7.cpp">
-      <Filter>소스 파일</Filter>
+    <ClCompile Include="5-8%28this 포인터%29.cpp">
+      <Filter>소스 파일\예제</Filter>
     </ClCompile>
-    <ClCompile Include="예제5-8.cpp">
-      <Filter>소스 파일</Filter>
+    <ClCompile Include="5-9%28this 포인터%29.cpp">
+      <Filter>소스 파일\예제</Filter>
     </ClCompile>
-    <ClCompile Include="예제5-9.cpp">
-      <Filter>소스 파일</Filter>
+    <ClCompile Include="5-10,11%28this 포인터%29.cpp">
+      <Filter>소스 파일\예제</Filter>
     </ClCompile>
-    <ClCompile Include="ex_5-2.cpp">
-      <Filter>소스 파일</Filter>
+    <ClCompile Include="5-12%28멤버 함수 오버로딩%29.cpp">
+      <Filter>소스 파일\예제</Filter>
     </ClCompile>
-    <ClCompile Include="ex_5-3.cpp">
-      <Filter>소스 파일</Filter>
+    <ClCompile Include="연습5-1.cpp">
+      <Filter>소스 파일\연습문제</Filter>
     </ClCompile>
-    <ClCompile Include="예제5-10,11.cpp">
-      <Filter>소스 파일</Filter>
+    <ClCompile Include="연습5-2.cpp">
+      <Filter>소스 파일\연습문제</Filter>
     </ClCompile>
-    <ClCompile Include="예제5-12.cpp">
-      <Filter>소스 파일</Filter>
+    <ClCompile Include="연습5-3.cpp">
+      <Filter>소스 파일\연습문제</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

@@ -127,9 +127,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="03_포인터.cpp" />
-    <ClCompile Include="01_표준입출력.cpp" />
-    <ClCompile Include="02_배열.cpp" />
+    <ClCompile Include="1-3%28포인터%29.cpp" />
+    <ClCompile Include="1-1%28표준입출력%29.cpp" />
+    <ClCompile Include="1-2%28배열%29.cpp" />
+    <ClCompile Include="1-10%28단방향 링크드 리스트%29.cpp" />
+    <ClCompile Include="1-9%28구조체%29.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

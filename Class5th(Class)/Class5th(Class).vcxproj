@@ -127,20 +127,20 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="ex_5-1.cpp" />
-    <ClCompile Include="ex_5-2.cpp" />
-    <ClCompile Include="ex_5-3.cpp" />
-    <ClCompile Include="예제5-1.cpp" />
-    <ClCompile Include="예제5-10,11.cpp" />
-    <ClCompile Include="예제5-12.cpp" />
-    <ClCompile Include="예제5-2.cpp" />
-    <ClCompile Include="예제5-3.cpp" />
-    <ClCompile Include="예제5-4.cpp" />
-    <ClCompile Include="예제5-5.cpp" />
-    <ClCompile Include="예제5-6.cpp" />
-    <ClCompile Include="예제5-7.cpp" />
-    <ClCompile Include="예제5-8.cpp" />
-    <ClCompile Include="예제5-9.cpp" />
+    <ClCompile Include="연습5-1.cpp" />
+    <ClCompile Include="연습5-2.cpp" />
+    <ClCompile Include="연습5-3.cpp" />
+    <ClCompile Include="5-1%28클래스와 배열%29.cpp" />
+    <ClCompile Include="5-10,11%28this 포인터%29.cpp" />
+    <ClCompile Include="5-12%28멤버 함수 오버로딩%29.cpp" />
+    <ClCompile Include="5-2%28클래스와 배열%29.cpp" />
+    <ClCompile Include="5-3%28클래스와 배열%29.cpp" />
+    <ClCompile Include="5-4%28클래스와 배열%29.cpp" />
+    <ClCompile Include="5-5%28객체 포인터%29.cpp" />
+    <ClCompile Include="5-6%28객체 포인터%29.cpp" />
+    <ClCompile Include="5-7%28객체 포인터%29.cpp" />
+    <ClCompile Include="5-8%28this 포인터%29.cpp" />
+    <ClCompile Include="5-9%28this 포인터%29.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

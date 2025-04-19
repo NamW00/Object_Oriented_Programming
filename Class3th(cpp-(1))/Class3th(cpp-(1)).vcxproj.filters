@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="소스 파일\예제">
+      <UniqueIdentifier>{02f13528-803c-4e20-a635-44e57a584bfa}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\연습문제">
+      <UniqueIdentifier>{9b74ec57-eca1-449d-812f-493d3ecb7efb}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="3-1%28인라인 함수%29.cpp">
+      <Filter>소스 파일\예제</Filter>
+    </ClCompile>
+    <ClCompile Include="3-2%28인라인 함수%29.cpp">
+      <Filter>소스 파일\예제</Filter>
+    </ClCompile>
+    <ClCompile Include="3-3%28참조의 이해%29.cpp">
+      <Filter>소스 파일\예제</Filter>
+    </ClCompile>
+    <ClCompile Include="3-4(참조의 이해).cpp">
+      <Filter>소스 파일\예제</Filter>
+    </ClCompile>
+    <ClCompile Include="3-5(함수에 대한 참조).cpp">
+      <Filter>소스 파일\예제</Filter>
+    </ClCompile>
+    <ClCompile Include="3-6(함수에 대한 참조).cpp">
+      <Filter>소스 파일\예제</Filter>
+    </ClCompile>
+    <ClCompile Include="3-7, 3-8%28참조와 함수%29.cpp">
+      <Filter>소스 파일\예제</Filter>
+    </ClCompile>
+    <ClCompile Include="3-4.cpp">
+      <Filter>소스 파일\연습문제</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
