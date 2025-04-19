@@ -130,6 +130,7 @@
     <ClCompile Include="4-2%28public과 private%29.cpp" />
     <ClCompile Include="4-4%28구조체와 클래스%29.cpp" />
     <ClCompile Include="4-3%28구조체와 클래스%29.cpp" />
+    <ClCompile Include="4-5%28객체의 생성과 생성자%29.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

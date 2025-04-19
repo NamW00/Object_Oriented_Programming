@@ -30,5 +30,8 @@
     <ClCompile Include="4-3%28구조체와 클래스%29.cpp">
       <Filter>소스 파일\연습문제</Filter>
     </ClCompile>
+    <ClCompile Include="4-5%28객체의 생성과 생성자%29.cpp">
+      <Filter>소스 파일\예제</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

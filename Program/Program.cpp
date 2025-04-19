@@ -1,47 +1,33 @@
 #include <iostream>
+#include <cstring>
 using namespace std;
 
-struct Point
+class CPoint
 {
 private:
 	int x;
 	int y;
 public:
-	void SetXY(int a, int b) { x = a; y = b; }
-	int GetX(Point &p) { return p.x; }
-	int GetY(Point &p) { return p.y; }
-	int pXSum(Point &p1, Point &p2) {
-		int xSum = 0;
-		xSum = p1.x + p2.x;
-		return xSum;
+	CPoint() : x(0), y(0) {}
+	CPoint(int a) : x(a), y(a) {}
+	CPoint(int a, int b) : x(a), y(b) {}
+	CPoint(int a, int b, int c) : x(a + b + c), y(a* b* c) {}
+	void Print() {
+		cout << "(" << x << ", " << y << ")" << endl;
 	}
-	int pYSum(Point& p1, Point& p2) {
-		int ySum = 0;
-		ySum = p1.y + p2.y;
-		return ySum;
-	}
-
-	void Print() { cout << "(" << x << ", " << y << ")" << endl; }
 };
 
 int main()
 {
-	Point pSum;
-	Point p1;
-	Point p2;
+	CPoint P1;
+	CPoint P2(1);
+	CPoint P3(2, 3);
+	CPoint P4(4, 5, 6);
 
-	p1.SetXY(1, 2);
-	p1.Print();
+	P1.Print();
+	P2.Print();
+	P3.Print();
+	P4.Print();
 
-	p2.SetXY(3, 4);
-	p2.Print();
-
-	pSum.SetXY(pSum.pXSum(p1, p2), pSum.pYSum(p1, p2));
-	pSum.Print();
-
-	cout << "p1 + p2¿¡¼­ÀÇ (x, y) : (" << pSum.pXSum(p1, p2) 
-		<<", " <<pSum.pYSum(p1,p2) << ")" << endl;
-
-	
 	return 0;
 }
