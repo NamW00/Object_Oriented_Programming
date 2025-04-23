@@ -21,13 +21,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="5-1%28클래스와 배열%29.cpp">
-      <Filter>소스 파일\예제</Filter>
-    </ClCompile>
-    <ClCompile Include="5-2%28클래스와 배열%29.cpp">
-      <Filter>소스 파일\예제</Filter>
-    </ClCompile>
-    <ClCompile Include="5-3%28클래스와 배열%29.cpp">
+    <ClCompile Include="5-1,2,3%28클래스와 배열%29.cpp">
       <Filter>소스 파일\예제</Filter>
     </ClCompile>
     <ClCompile Include="5-4%28클래스와 배열%29.cpp">

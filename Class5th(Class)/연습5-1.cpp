@@ -3,27 +3,21 @@ using namespace std;
 
 class CPoint {
 private:
-	int x, y;
+	int x;
+	int y;
 public:
-	void SetXY(int a, int b)
-	{
-		x = a;
-		y = b;
+	void SetXY(int a, int b) { x = a; y = b; }
+	void Print() {
+		cout << "(" << x << ", " << y << ")";
 	}
-	
-	void Print() { cout << "(" << x << ", " << y << ")"; }
 };
-
-int main(void)
-{
+int main() {
 	int x, y;
-	CPoint pt[3][2]; // 2차원 배열 & 초기화
+	CPoint pt[3][2];
 
-	for (int i = 0; i < 3; i++)
-	{
-		for (int j = 0; j < 2; j++)
-		{
-			cout << "x와 y값 입력 : ";
+	for (int i = 0; i < 3; i++) {
+		for (int j = 0; j < 2; j++) {
+			cout << "[" << i << ", " << j << "] 값을 입력하시오 : ";
 			cin >> x >> y;
 			pt[i][j].SetXY(x, y);
 		}
@@ -38,6 +32,5 @@ int main(void)
 		}
 		cout << endl;
 	}
-
 	return 0;
 }

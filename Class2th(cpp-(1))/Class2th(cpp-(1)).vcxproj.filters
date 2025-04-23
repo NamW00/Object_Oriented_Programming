@@ -24,5 +24,16 @@
     <ClCompile Include="1-1(표준입출력).cpp">
       <Filter>소스 파일\예제</Filter>
     </ClCompile>
+    <ClCompile Include="..\Program\ns.cpp">
+      <Filter>소스 파일\연습문제</Filter>
+    </ClCompile>
+    <ClCompile Include="2-3.cpp">
+      <Filter>소스 파일\연습문제</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\Program\ns.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
