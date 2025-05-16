@@ -7,6 +7,9 @@
       "RelativeMoniker": "D:0:0:{EACB2B36-FCDB-4F19-BB7A-824057A199D8}|Program.vcxproj|solutionrelative:Program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{D177D4AD-DA30-4BB6-83AD-56914E20FE2B}|..\\Class3th(cpp-(1))\\Class3th(cpp-(1)).vcxproj|C:\\Users\\guddn\\Desktop\\Object_Oriented_Programming\\Class3th(cpp-(1))\\3-2(\uC778\uB77C\uC778 \uD568\uC218).cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3E5D89AF-16F2-4011-AAF2-4C5A3CA812AB}|..\\Class2th(cpp-(1))\\Class2th(cpp-(1)).vcxproj|C:\\Users\\guddn\\Desktop\\Object_Oriented_Programming\\Class2th(cpp-(1))\\2-3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
@@ -85,11 +88,23 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
+              "Title": "3-2(\uC778\uB77C\uC778 \uD568\uC218).cpp",
+              "DocumentMoniker": "C:\\Users\\guddn\\Desktop\\Object_Oriented_Programming\\Class3th(cpp-(1))\\3-2(\uC778\uB77C\uC778 \uD568\uC218).cpp",
+              "RelativeDocumentMoniker": "..\\Class3th(cpp-(1))\\3-2(\uC778\uB77C\uC778 \uD568\uC218).cpp",
+              "ToolTip": "C:\\Users\\guddn\\Desktop\\Object_Oriented_Programming\\Class3th(cpp-(1))\\3-2(\uC778\uB77C\uC778 \uD568\uC218).cpp",
+              "RelativeToolTip": "..\\Class3th(cpp-(1))\\3-2(\uC778\uB77C\uC778 \uD568\uC218).cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-23T22:09:55.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "ns.h",
               "DocumentMoniker": "C:\\Users\\guddn\\Desktop\\Object_Oriented_Programming\\Program\\ns.h",
               "RelativeDocumentMoniker": "ns.h",
@@ -97,12 +112,11 @@
               "RelativeToolTip": "ns.h",
               "ViewState": "AgIAAAAAAAAAAAAAAADwvwgAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-04-23T22:02:48.29Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-23T22:02:48.29Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "ns.cpp",
               "DocumentMoniker": "C:\\Users\\guddn\\Desktop\\Object_Oriented_Programming\\Program\\ns.cpp",
               "RelativeDocumentMoniker": "ns.cpp",
@@ -110,12 +124,11 @@
               "RelativeToolTip": "ns.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-04-23T22:02:06.896Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-23T22:02:06.896Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "2-3.cpp",
               "DocumentMoniker": "C:\\Users\\guddn\\Desktop\\Object_Oriented_Programming\\Class2th(cpp-(1))\\2-3.cpp",
               "RelativeDocumentMoniker": "..\\Class2th(cpp-(1))\\2-3.cpp",
@@ -123,12 +136,11 @@
               "RelativeToolTip": "..\\Class2th(cpp-(1))\\2-3.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-04-23T22:01:41.469Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-23T22:01:41.469Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "2-5(namespace).cpp",
               "DocumentMoniker": "C:\\Users\\guddn\\Desktop\\Object_Oriented_Programming\\Assignment1\\2-5(namespace).cpp",
               "RelativeDocumentMoniker": "..\\Assignment1\\2-5(namespace).cpp",
@@ -140,7 +152,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "2-4(namespace).cpp",
               "DocumentMoniker": "C:\\Users\\guddn\\Desktop\\Object_Oriented_Programming\\Assignment1\\2-4(namespace).cpp",
               "RelativeDocumentMoniker": "..\\Assignment1\\2-4(namespace).cpp",
@@ -156,16 +168,16 @@
               "Title": "Program.cpp",
               "DocumentMoniker": "C:\\Users\\guddn\\Desktop\\Object_Oriented_Programming\\Program\\Program.cpp",
               "RelativeDocumentMoniker": "Program.cpp",
-              "ToolTip": "C:\\Users\\guddn\\Desktop\\Object_Oriented_Programming\\Program\\Program.cpp",
-              "RelativeToolTip": "Program.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAOAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\guddn\\Desktop\\Object_Oriented_Programming\\Program\\Program.cpp*",
+              "RelativeToolTip": "Program.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-04-10T10:22:33.261Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "ex_2-4.cpp",
               "DocumentMoniker": "C:\\Users\\guddn\\Desktop\\Object_Oriented_Programming\\Assignment1\\ex_2-4.cpp",
               "RelativeDocumentMoniker": "..\\Assignment1\\ex_2-4.cpp",
@@ -177,7 +189,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "ex_6-7.cpp",
               "DocumentMoniker": "C:\\Users\\guddn\\Desktop\\Object_Oriented_Programming\\Assignment1\\ex_6-7.cpp",
               "RelativeDocumentMoniker": "..\\Assignment1\\ex_6-7.cpp",
@@ -189,7 +201,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "ex_6-3.cpp",
               "DocumentMoniker": "C:\\Users\\guddn\\Desktop\\Object_Oriented_Programming\\Assignment1\\ex_6-3.cpp",
               "RelativeDocumentMoniker": "..\\Assignment1\\ex_6-3.cpp",
@@ -201,7 +213,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "ex_6-5.cpp",
               "DocumentMoniker": "C:\\Users\\guddn\\Desktop\\Object_Oriented_Programming\\Assignment1\\ex_6-5.cpp",
               "RelativeDocumentMoniker": "..\\Assignment1\\ex_6-5.cpp",
@@ -213,7 +225,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "ex_5-5.cpp",
               "DocumentMoniker": "C:\\Users\\guddn\\Desktop\\Object_Oriented_Programming\\Assignment1\\ex_5-5.cpp",
               "RelativeDocumentMoniker": "..\\Assignment1\\ex_5-5.cpp",
@@ -225,7 +237,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "ex_6-6.cpp",
               "DocumentMoniker": "C:\\Users\\guddn\\Desktop\\Object_Oriented_Programming\\Assignment1\\ex_6-6.cpp",
               "RelativeDocumentMoniker": "..\\Assignment1\\ex_6-6.cpp",
@@ -237,7 +249,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "ex_5-8.cpp",
               "DocumentMoniker": "C:\\Users\\guddn\\Desktop\\Object_Oriented_Programming\\Assignment1\\ex_5-8.cpp",
               "RelativeDocumentMoniker": "..\\Assignment1\\ex_5-8.cpp",
@@ -249,7 +261,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "ex_5-3.cpp",
               "DocumentMoniker": "C:\\Users\\guddn\\Desktop\\Object_Oriented_Programming\\Assignment1\\ex_5-3.cpp",
               "RelativeDocumentMoniker": "..\\Assignment1\\ex_5-3.cpp",
@@ -261,7 +273,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "\uC5F0\uC2B55-2.cpp",
               "DocumentMoniker": "C:\\Users\\guddn\\Desktop\\Object_Oriented_Programming\\Class5th(Class)\\\uC5F0\uC2B55-2.cpp",
               "RelativeDocumentMoniker": "..\\Class5th(Class)\\\uC5F0\uC2B55-2.cpp",
@@ -273,7 +285,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "\uC5F0\uC2B55-3.cpp",
               "DocumentMoniker": "C:\\Users\\guddn\\Desktop\\Object_Oriented_Programming\\Class5th(Class)\\\uC5F0\uC2B55-3.cpp",
               "RelativeDocumentMoniker": "..\\Class5th(Class)\\\uC5F0\uC2B55-3.cpp",
@@ -285,7 +297,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "5-5(\uAC1D\uCCB4 \uD3EC\uC778\uD130).cpp",
               "DocumentMoniker": "C:\\Users\\guddn\\Desktop\\Object_Oriented_Programming\\Class5th(Class)\\5-5(\uAC1D\uCCB4 \uD3EC\uC778\uD130).cpp",
               "RelativeDocumentMoniker": "..\\Class5th(Class)\\5-5(\uAC1D\uCCB4 \uD3EC\uC778\uD130).cpp",
@@ -297,7 +309,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "\uC5F0\uC2B55-1.cpp",
               "DocumentMoniker": "C:\\Users\\guddn\\Desktop\\Object_Oriented_Programming\\Class5th(Class)\\\uC5F0\uC2B55-1.cpp",
               "RelativeDocumentMoniker": "..\\Class5th(Class)\\\uC5F0\uC2B55-1.cpp",
@@ -309,7 +321,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "5-4(\uD074\uB798\uC2A4\uC640 \uBC30\uC5F4).cpp",
               "DocumentMoniker": "C:\\Users\\guddn\\Desktop\\Object_Oriented_Programming\\Class5th(Class)\\5-4(\uD074\uB798\uC2A4\uC640 \uBC30\uC5F4).cpp",
               "RelativeDocumentMoniker": "..\\Class5th(Class)\\5-4(\uD074\uB798\uC2A4\uC640 \uBC30\uC5F4).cpp",
@@ -321,7 +333,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "5-1,2,3(\uD074\uB798\uC2A4\uC640 \uBC30\uC5F4).cpp",
               "DocumentMoniker": "C:\\Users\\guddn\\Desktop\\Object_Oriented_Programming\\Class5th(Class)\\5-1,2,3(\uD074\uB798\uC2A4\uC640 \uBC30\uC5F4).cpp",
               "RelativeDocumentMoniker": "..\\Class5th(Class)\\5-1,2,3(\uD074\uB798\uC2A4\uC640 \uBC30\uC5F4).cpp",
@@ -333,7 +345,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "5-12(\uBA64\uBC84 \uD568\uC218 \uC624\uBC84\uB85C\uB529).cpp",
               "DocumentMoniker": "C:\\Users\\guddn\\Desktop\\Object_Oriented_Programming\\Class5th(Class)\\5-12(\uBA64\uBC84 \uD568\uC218 \uC624\uBC84\uB85C\uB529).cpp",
               "RelativeDocumentMoniker": "..\\Class5th(Class)\\5-12(\uBA64\uBC84 \uD568\uC218 \uC624\uBC84\uB85C\uB529).cpp",
@@ -345,7 +357,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 24,
               "Title": "ex_4-4.cpp",
               "DocumentMoniker": "C:\\Users\\guddn\\Desktop\\Object_Oriented_Programming\\Assignment1\\ex_4-4.cpp",
               "RelativeDocumentMoniker": "..\\Assignment1\\ex_4-4.cpp",
@@ -357,7 +369,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 23,
               "Title": "ex_4-6.cpp",
               "DocumentMoniker": "C:\\Users\\guddn\\Desktop\\Object_Oriented_Programming\\Assignment1\\ex_4-6.cpp",
               "RelativeDocumentMoniker": "..\\Assignment1\\ex_4-6.cpp",
@@ -369,7 +381,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "ex_4-7.cpp",
               "DocumentMoniker": "C:\\Users\\guddn\\Desktop\\Object_Oriented_Programming\\Assignment1\\ex_4-7.cpp",
               "RelativeDocumentMoniker": "..\\Assignment1\\ex_4-7.cpp",
