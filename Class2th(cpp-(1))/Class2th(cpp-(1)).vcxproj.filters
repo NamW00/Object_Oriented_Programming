@@ -30,6 +30,12 @@
     <ClCompile Include="2-3.cpp">
       <Filter>소스 파일\연습문제</Filter>
     </ClCompile>
+    <ClCompile Include="2-4(Namespace).cpp">
+      <Filter>소스 파일\예제</Filter>
+    </ClCompile>
+    <ClCompile Include="2-5(Namespace).cpp">
+      <Filter>소스 파일\예제</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="..\Program\ns.h">

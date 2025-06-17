@@ -130,6 +130,8 @@
     <ClCompile Include="..\Program\ns.cpp" />
     <ClCompile Include="1-1(표준입출력).cpp" />
     <ClCompile Include="2-3.cpp" />
+    <ClCompile Include="2-4(Namespace).cpp" />
+    <ClCompile Include="2-5(Namespace).cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="..\Program\ns.h" />
